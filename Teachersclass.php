@@ -13,5 +13,9 @@ class Teachersclass
     {
         echo "brick in the wall";
     }
+    public function weDont()
+    {
+        echo "need no education";
+    }
 
 }
