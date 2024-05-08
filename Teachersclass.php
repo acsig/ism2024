@@ -4,6 +4,10 @@ namespace ism\webappgit;
 
 class Teachersclass
 {
-  echo hello world
+
+    public function heyTeacher()
+    {
+        echo "Leave us kids alone";
+    }
 
 }
