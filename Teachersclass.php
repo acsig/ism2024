@@ -26,4 +26,8 @@ class Yaroslavsclass{
         $this->res = $num1 + $num2;
         return $this->res;
     }
+    public function hello(){
+        return `Hello world `;
+    }
 }
+
