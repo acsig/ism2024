@@ -18,4 +18,16 @@ class Teachersclass
         echo "need no education";
     }
 
+
 }
+class Yaroslavsclass{
+    public $res = 0;
+    public function sum($num1, $num2){
+        $this->res = $num1 + $num2;
+        return $this->res;
+    }
+    public function hello(){
+        return `Hello world `;
+    }
+}
+
