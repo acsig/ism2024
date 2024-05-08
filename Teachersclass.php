@@ -11,17 +11,3 @@ class Teachersclass
     }
 
 }
-
-class Bully {
-    public function heyBully() {
-        echo "Okay, fine.I have left them alone.";
-    }
-}
-
-class SavedStudents {
-    public function heyStudent(){
-        echo "Thank you for saving us, teacher!";
-    }
-}
-
-
