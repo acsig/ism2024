@@ -9,5 +9,9 @@ class Teachersclass
     {
         echo "Leave us kids alone";
     }
+    public function justAnother()
+    {
+        echo "brick in the wall";
+    }
 
 }
